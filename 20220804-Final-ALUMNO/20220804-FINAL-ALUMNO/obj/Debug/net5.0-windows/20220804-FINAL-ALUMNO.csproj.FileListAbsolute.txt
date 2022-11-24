@@ -1,0 +1,8 @@
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Parciales\Propios\Final\20220804-Final-ALUMNO\20220804-FINAL-ALUMNO\obj\Debug\net5.0-windows\20220804-FINAL-ALUMNO.csproj.AssemblyReference.cache
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Parciales\Propios\Final\20220804-Final-ALUMNO\20220804-FINAL-ALUMNO\obj\Debug\net5.0-windows\_20220804_FINAL_ALUMNO.FrmView.resources
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Parciales\Propios\Final\20220804-Final-ALUMNO\20220804-FINAL-ALUMNO\obj\Debug\net5.0-windows\_20220804_FINAL_ALUMNO.Properties.Resources.resources
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Parciales\Propios\Final\20220804-Final-ALUMNO\20220804-FINAL-ALUMNO\obj\Debug\net5.0-windows\20220804-FINAL-ALUMNO.csproj.GenerateResource.cache
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Parciales\Propios\Final\20220804-Final-ALUMNO\20220804-FINAL-ALUMNO\obj\Debug\net5.0-windows\20220804-FINAL-ALUMNO.GeneratedMSBuildEditorConfig.editorconfig
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Parciales\Propios\Final\20220804-Final-ALUMNO\20220804-FINAL-ALUMNO\obj\Debug\net5.0-windows\20220804-FINAL-ALUMNO.AssemblyInfoInputs.cache
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Parciales\Propios\Final\20220804-Final-ALUMNO\20220804-FINAL-ALUMNO\obj\Debug\net5.0-windows\20220804-FINAL-ALUMNO.AssemblyInfo.cs
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Parciales\Propios\Final\20220804-Final-ALUMNO\20220804-FINAL-ALUMNO\obj\Debug\net5.0-windows\20220804-FINAL-ALUMNO.csproj.CoreCompileInputs.cache

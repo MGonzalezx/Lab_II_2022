@@ -1,0 +1,58 @@
+C:\Users\RocioGonzalez\Desktop\recu segundo parcial\Gonzalez.Martin\RSP.LabII.2022--Gonzalez.Martin\WinFormsApp.RSP\bin\Debug\net5.0-windows\WinFormsApp.RSP.exe
+C:\Users\RocioGonzalez\Desktop\recu segundo parcial\Gonzalez.Martin\RSP.LabII.2022--Gonzalez.Martin\WinFormsApp.RSP\bin\Debug\net5.0-windows\WinFormsApp.RSP.deps.json
+C:\Users\RocioGonzalez\Desktop\recu segundo parcial\Gonzalez.Martin\RSP.LabII.2022--Gonzalez.Martin\WinFormsApp.RSP\bin\Debug\net5.0-windows\WinFormsApp.RSP.runtimeconfig.json
+C:\Users\RocioGonzalez\Desktop\recu segundo parcial\Gonzalez.Martin\RSP.LabII.2022--Gonzalez.Martin\WinFormsApp.RSP\bin\Debug\net5.0-windows\WinFormsApp.RSP.runtimeconfig.dev.json
+C:\Users\RocioGonzalez\Desktop\recu segundo parcial\Gonzalez.Martin\RSP.LabII.2022--Gonzalez.Martin\WinFormsApp.RSP\bin\Debug\net5.0-windows\WinFormsApp.RSP.dll
+C:\Users\RocioGonzalez\Desktop\recu segundo parcial\Gonzalez.Martin\RSP.LabII.2022--Gonzalez.Martin\WinFormsApp.RSP\bin\Debug\net5.0-windows\ref\WinFormsApp.RSP.dll
+C:\Users\RocioGonzalez\Desktop\recu segundo parcial\Gonzalez.Martin\RSP.LabII.2022--Gonzalez.Martin\WinFormsApp.RSP\bin\Debug\net5.0-windows\WinFormsApp.RSP.pdb
+C:\Users\RocioGonzalez\Desktop\recu segundo parcial\Gonzalez.Martin\RSP.LabII.2022--Gonzalez.Martin\WinFormsApp.RSP\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\RocioGonzalez\Desktop\recu segundo parcial\Gonzalez.Martin\RSP.LabII.2022--Gonzalez.Martin\WinFormsApp.RSP\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\RocioGonzalez\Desktop\recu segundo parcial\Gonzalez.Martin\RSP.LabII.2022--Gonzalez.Martin\WinFormsApp.RSP\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\RocioGonzalez\Desktop\recu segundo parcial\Gonzalez.Martin\RSP.LabII.2022--Gonzalez.Martin\WinFormsApp.RSP\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\RocioGonzalez\Desktop\recu segundo parcial\Gonzalez.Martin\RSP.LabII.2022--Gonzalez.Martin\WinFormsApp.RSP\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\RocioGonzalez\Desktop\recu segundo parcial\Gonzalez.Martin\RSP.LabII.2022--Gonzalez.Martin\WinFormsApp.RSP\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\RocioGonzalez\Desktop\recu segundo parcial\Gonzalez.Martin\RSP.LabII.2022--Gonzalez.Martin\WinFormsApp.RSP\bin\Debug\net5.0-windows\Entidades.RSP.dll
+C:\Users\RocioGonzalez\Desktop\recu segundo parcial\Gonzalez.Martin\RSP.LabII.2022--Gonzalez.Martin\WinFormsApp.RSP\bin\Debug\net5.0-windows\Entidades.RSP.pdb
+C:\Users\RocioGonzalez\Desktop\recu segundo parcial\Gonzalez.Martin\RSP.LabII.2022--Gonzalez.Martin\WinFormsApp.RSP\obj\Debug\net5.0-windows\WinFormsApp.RSP.csproj.AssemblyReference.cache
+C:\Users\RocioGonzalez\Desktop\recu segundo parcial\Gonzalez.Martin\RSP.LabII.2022--Gonzalez.Martin\WinFormsApp.RSP\obj\Debug\net5.0-windows\WinFormsApp.RSP.FrmPasajeroCRUD.resources
+C:\Users\RocioGonzalez\Desktop\recu segundo parcial\Gonzalez.Martin\RSP.LabII.2022--Gonzalez.Martin\WinFormsApp.RSP\obj\Debug\net5.0-windows\WinFormsApp.RSP.FrmPasajeroTask.resources
+C:\Users\RocioGonzalez\Desktop\recu segundo parcial\Gonzalez.Martin\RSP.LabII.2022--Gonzalez.Martin\WinFormsApp.RSP\obj\Debug\net5.0-windows\WinFormsApp.RSP.FrmPrincipal.resources
+C:\Users\RocioGonzalez\Desktop\recu segundo parcial\Gonzalez.Martin\RSP.LabII.2022--Gonzalez.Martin\WinFormsApp.RSP\obj\Debug\net5.0-windows\WinFormsApp.RSP.csproj.GenerateResource.cache
+C:\Users\RocioGonzalez\Desktop\recu segundo parcial\Gonzalez.Martin\RSP.LabII.2022--Gonzalez.Martin\WinFormsApp.RSP\obj\Debug\net5.0-windows\WinFormsApp.RSP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RocioGonzalez\Desktop\recu segundo parcial\Gonzalez.Martin\RSP.LabII.2022--Gonzalez.Martin\WinFormsApp.RSP\obj\Debug\net5.0-windows\WinFormsApp.RSP.AssemblyInfoInputs.cache
+C:\Users\RocioGonzalez\Desktop\recu segundo parcial\Gonzalez.Martin\RSP.LabII.2022--Gonzalez.Martin\WinFormsApp.RSP\obj\Debug\net5.0-windows\WinFormsApp.RSP.AssemblyInfo.cs
+C:\Users\RocioGonzalez\Desktop\recu segundo parcial\Gonzalez.Martin\RSP.LabII.2022--Gonzalez.Martin\WinFormsApp.RSP\obj\Debug\net5.0-windows\WinFormsApp.RSP.csproj.CoreCompileInputs.cache
+C:\Users\RocioGonzalez\Desktop\recu segundo parcial\Gonzalez.Martin\RSP.LabII.2022--Gonzalez.Martin\WinFormsApp.RSP\obj\Debug\net5.0-windows\WinFormsApp.RSP.csproj.CopyComplete
+C:\Users\RocioGonzalez\Desktop\recu segundo parcial\Gonzalez.Martin\RSP.LabII.2022--Gonzalez.Martin\WinFormsApp.RSP\obj\Debug\net5.0-windows\WinFormsApp.RSP.dll
+C:\Users\RocioGonzalez\Desktop\recu segundo parcial\Gonzalez.Martin\RSP.LabII.2022--Gonzalez.Martin\WinFormsApp.RSP\obj\Debug\net5.0-windows\ref\WinFormsApp.RSP.dll
+C:\Users\RocioGonzalez\Desktop\recu segundo parcial\Gonzalez.Martin\RSP.LabII.2022--Gonzalez.Martin\WinFormsApp.RSP\obj\Debug\net5.0-windows\WinFormsApp.RSP.pdb
+C:\Users\RocioGonzalez\Desktop\recu segundo parcial\Gonzalez.Martin\RSP.LabII.2022--Gonzalez.Martin\WinFormsApp.RSP\obj\Debug\net5.0-windows\WinFormsApp.RSP.genruntimeconfig.cache
+C:\Users\RocioGonzalez\Desktop\Porg y Lab 2_2022\recu segundo parcial\Gonzalez.Martin\RSP.LabII.2022--Gonzalez.Martin\WinFormsApp.RSP\bin\Debug\net5.0-windows\WinFormsApp.RSP.exe
+C:\Users\RocioGonzalez\Desktop\Porg y Lab 2_2022\recu segundo parcial\Gonzalez.Martin\RSP.LabII.2022--Gonzalez.Martin\WinFormsApp.RSP\bin\Debug\net5.0-windows\WinFormsApp.RSP.deps.json
+C:\Users\RocioGonzalez\Desktop\Porg y Lab 2_2022\recu segundo parcial\Gonzalez.Martin\RSP.LabII.2022--Gonzalez.Martin\WinFormsApp.RSP\bin\Debug\net5.0-windows\WinFormsApp.RSP.runtimeconfig.json
+C:\Users\RocioGonzalez\Desktop\Porg y Lab 2_2022\recu segundo parcial\Gonzalez.Martin\RSP.LabII.2022--Gonzalez.Martin\WinFormsApp.RSP\bin\Debug\net5.0-windows\WinFormsApp.RSP.runtimeconfig.dev.json
+C:\Users\RocioGonzalez\Desktop\Porg y Lab 2_2022\recu segundo parcial\Gonzalez.Martin\RSP.LabII.2022--Gonzalez.Martin\WinFormsApp.RSP\bin\Debug\net5.0-windows\WinFormsApp.RSP.dll
+C:\Users\RocioGonzalez\Desktop\Porg y Lab 2_2022\recu segundo parcial\Gonzalez.Martin\RSP.LabII.2022--Gonzalez.Martin\WinFormsApp.RSP\bin\Debug\net5.0-windows\ref\WinFormsApp.RSP.dll
+C:\Users\RocioGonzalez\Desktop\Porg y Lab 2_2022\recu segundo parcial\Gonzalez.Martin\RSP.LabII.2022--Gonzalez.Martin\WinFormsApp.RSP\bin\Debug\net5.0-windows\WinFormsApp.RSP.pdb
+C:\Users\RocioGonzalez\Desktop\Porg y Lab 2_2022\recu segundo parcial\Gonzalez.Martin\RSP.LabII.2022--Gonzalez.Martin\WinFormsApp.RSP\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\RocioGonzalez\Desktop\Porg y Lab 2_2022\recu segundo parcial\Gonzalez.Martin\RSP.LabII.2022--Gonzalez.Martin\WinFormsApp.RSP\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\RocioGonzalez\Desktop\Porg y Lab 2_2022\recu segundo parcial\Gonzalez.Martin\RSP.LabII.2022--Gonzalez.Martin\WinFormsApp.RSP\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\RocioGonzalez\Desktop\Porg y Lab 2_2022\recu segundo parcial\Gonzalez.Martin\RSP.LabII.2022--Gonzalez.Martin\WinFormsApp.RSP\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\RocioGonzalez\Desktop\Porg y Lab 2_2022\recu segundo parcial\Gonzalez.Martin\RSP.LabII.2022--Gonzalez.Martin\WinFormsApp.RSP\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\RocioGonzalez\Desktop\Porg y Lab 2_2022\recu segundo parcial\Gonzalez.Martin\RSP.LabII.2022--Gonzalez.Martin\WinFormsApp.RSP\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\RocioGonzalez\Desktop\Porg y Lab 2_2022\recu segundo parcial\Gonzalez.Martin\RSP.LabII.2022--Gonzalez.Martin\WinFormsApp.RSP\bin\Debug\net5.0-windows\Entidades.RSP.dll
+C:\Users\RocioGonzalez\Desktop\Porg y Lab 2_2022\recu segundo parcial\Gonzalez.Martin\RSP.LabII.2022--Gonzalez.Martin\WinFormsApp.RSP\bin\Debug\net5.0-windows\Entidades.RSP.pdb
+C:\Users\RocioGonzalez\Desktop\Porg y Lab 2_2022\recu segundo parcial\Gonzalez.Martin\RSP.LabII.2022--Gonzalez.Martin\WinFormsApp.RSP\obj\Debug\net5.0-windows\WinFormsApp.RSP.csproj.AssemblyReference.cache
+C:\Users\RocioGonzalez\Desktop\Porg y Lab 2_2022\recu segundo parcial\Gonzalez.Martin\RSP.LabII.2022--Gonzalez.Martin\WinFormsApp.RSP\obj\Debug\net5.0-windows\WinFormsApp.RSP.FrmPasajeroCRUD.resources
+C:\Users\RocioGonzalez\Desktop\Porg y Lab 2_2022\recu segundo parcial\Gonzalez.Martin\RSP.LabII.2022--Gonzalez.Martin\WinFormsApp.RSP\obj\Debug\net5.0-windows\WinFormsApp.RSP.FrmPasajeroTask.resources
+C:\Users\RocioGonzalez\Desktop\Porg y Lab 2_2022\recu segundo parcial\Gonzalez.Martin\RSP.LabII.2022--Gonzalez.Martin\WinFormsApp.RSP\obj\Debug\net5.0-windows\WinFormsApp.RSP.FrmPrincipal.resources
+C:\Users\RocioGonzalez\Desktop\Porg y Lab 2_2022\recu segundo parcial\Gonzalez.Martin\RSP.LabII.2022--Gonzalez.Martin\WinFormsApp.RSP\obj\Debug\net5.0-windows\WinFormsApp.RSP.csproj.GenerateResource.cache
+C:\Users\RocioGonzalez\Desktop\Porg y Lab 2_2022\recu segundo parcial\Gonzalez.Martin\RSP.LabII.2022--Gonzalez.Martin\WinFormsApp.RSP\obj\Debug\net5.0-windows\WinFormsApp.RSP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RocioGonzalez\Desktop\Porg y Lab 2_2022\recu segundo parcial\Gonzalez.Martin\RSP.LabII.2022--Gonzalez.Martin\WinFormsApp.RSP\obj\Debug\net5.0-windows\WinFormsApp.RSP.AssemblyInfoInputs.cache
+C:\Users\RocioGonzalez\Desktop\Porg y Lab 2_2022\recu segundo parcial\Gonzalez.Martin\RSP.LabII.2022--Gonzalez.Martin\WinFormsApp.RSP\obj\Debug\net5.0-windows\WinFormsApp.RSP.AssemblyInfo.cs
+C:\Users\RocioGonzalez\Desktop\Porg y Lab 2_2022\recu segundo parcial\Gonzalez.Martin\RSP.LabII.2022--Gonzalez.Martin\WinFormsApp.RSP\obj\Debug\net5.0-windows\WinFormsApp.RSP.csproj.CoreCompileInputs.cache
+C:\Users\RocioGonzalez\Desktop\Porg y Lab 2_2022\recu segundo parcial\Gonzalez.Martin\RSP.LabII.2022--Gonzalez.Martin\WinFormsApp.RSP\obj\Debug\net5.0-windows\WinFormsApp.RSP.csproj.CopyComplete
+C:\Users\RocioGonzalez\Desktop\Porg y Lab 2_2022\recu segundo parcial\Gonzalez.Martin\RSP.LabII.2022--Gonzalez.Martin\WinFormsApp.RSP\obj\Debug\net5.0-windows\WinFormsApp.RSP.dll
+C:\Users\RocioGonzalez\Desktop\Porg y Lab 2_2022\recu segundo parcial\Gonzalez.Martin\RSP.LabII.2022--Gonzalez.Martin\WinFormsApp.RSP\obj\Debug\net5.0-windows\ref\WinFormsApp.RSP.dll
+C:\Users\RocioGonzalez\Desktop\Porg y Lab 2_2022\recu segundo parcial\Gonzalez.Martin\RSP.LabII.2022--Gonzalez.Martin\WinFormsApp.RSP\obj\Debug\net5.0-windows\WinFormsApp.RSP.pdb
+C:\Users\RocioGonzalez\Desktop\Porg y Lab 2_2022\recu segundo parcial\Gonzalez.Martin\RSP.LabII.2022--Gonzalez.Martin\WinFormsApp.RSP\obj\Debug\net5.0-windows\WinFormsApp.RSP.genruntimeconfig.cache

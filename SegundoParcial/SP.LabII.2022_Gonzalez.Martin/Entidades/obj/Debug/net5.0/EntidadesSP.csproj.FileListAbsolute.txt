@@ -1,0 +1,5 @@
+C:\Users\RocioGonzalez\Desktop\Porg y Lab 2_2022\SegundoParcial\SP.LabII.2022_Gonzalez.Martin\Entidades\obj\Debug\net5.0\EntidadesSP.csproj.AssemblyReference.cache
+C:\Users\RocioGonzalez\Desktop\Porg y Lab 2_2022\SegundoParcial\SP.LabII.2022_Gonzalez.Martin\Entidades\obj\Debug\net5.0\EntidadesSP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RocioGonzalez\Desktop\Porg y Lab 2_2022\SegundoParcial\SP.LabII.2022_Gonzalez.Martin\Entidades\obj\Debug\net5.0\EntidadesSP.AssemblyInfoInputs.cache
+C:\Users\RocioGonzalez\Desktop\Porg y Lab 2_2022\SegundoParcial\SP.LabII.2022_Gonzalez.Martin\Entidades\obj\Debug\net5.0\EntidadesSP.AssemblyInfo.cs
+C:\Users\RocioGonzalez\Desktop\Porg y Lab 2_2022\SegundoParcial\SP.LabII.2022_Gonzalez.Martin\Entidades\obj\Debug\net5.0\EntidadesSP.csproj.CoreCompileInputs.cache

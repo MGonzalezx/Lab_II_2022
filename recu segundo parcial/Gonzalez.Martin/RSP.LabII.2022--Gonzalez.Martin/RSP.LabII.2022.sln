@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsApp.RSP", "WinFormsApp.RSP\WinFormsApp.RSP.csproj", "{706E3B99-748E-4FEB-922A-FCC382AA08CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades.RSP", "Entidades.RSP\Entidades.RSP.csproj", "{B27E49BD-A8D8-4DE3-A48D-E4715437AD13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{706E3B99-748E-4FEB-922A-FCC382AA08CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{706E3B99-748E-4FEB-922A-FCC382AA08CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{706E3B99-748E-4FEB-922A-FCC382AA08CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{706E3B99-748E-4FEB-922A-FCC382AA08CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B27E49BD-A8D8-4DE3-A48D-E4715437AD13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B27E49BD-A8D8-4DE3-A48D-E4715437AD13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B27E49BD-A8D8-4DE3-A48D-E4715437AD13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B27E49BD-A8D8-4DE3-A48D-E4715437AD13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E3F9F7B-CD88-4575-A77A-8ACA8DB43AAA}
+	EndGlobalSection
+EndGlobal
