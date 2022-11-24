@@ -1,0 +1,123 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\RocioGonzalez\\Desktop\\Porg y Lab 2_2022\\Programacion_Y_Laboratorio_2_2022\\Modelos_de_Parcial\\Segundo_Parcial_Microrganismo\\SimuladorForm\\SimuladorForm.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\RocioGonzalez\\Desktop\\Porg y Lab 2_2022\\Programacion_Y_Laboratorio_2_2022\\Modelos_de_Parcial\\Segundo_Parcial_Microrganismo\\Entidades\\Entidades.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\RocioGonzalez\\Desktop\\Porg y Lab 2_2022\\Programacion_Y_Laboratorio_2_2022\\Modelos_de_Parcial\\Segundo_Parcial_Microrganismo\\Entidades\\Entidades.csproj",
+        "projectName": "Entidades",
+        "projectPath": "C:\\Users\\RocioGonzalez\\Desktop\\Porg y Lab 2_2022\\Programacion_Y_Laboratorio_2_2022\\Modelos_de_Parcial\\Segundo_Parcial_Microrganismo\\Entidades\\Entidades.csproj",
+        "packagesPath": "C:\\Users\\RocioGonzalez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\RocioGonzalez\\Desktop\\Porg y Lab 2_2022\\Programacion_Y_Laboratorio_2_2022\\Modelos_de_Parcial\\Segundo_Parcial_Microrganismo\\Entidades\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\RocioGonzalez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\RocioGonzalez\\Desktop\\Porg y Lab 2_2022\\Programacion_Y_Laboratorio_2_2022\\Modelos_de_Parcial\\Segundo_Parcial_Microrganismo\\SimuladorForm\\SimuladorForm.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\RocioGonzalez\\Desktop\\Porg y Lab 2_2022\\Programacion_Y_Laboratorio_2_2022\\Modelos_de_Parcial\\Segundo_Parcial_Microrganismo\\SimuladorForm\\SimuladorForm.csproj",
+        "projectName": "SimuladorForm",
+        "projectPath": "C:\\Users\\RocioGonzalez\\Desktop\\Porg y Lab 2_2022\\Programacion_Y_Laboratorio_2_2022\\Modelos_de_Parcial\\Segundo_Parcial_Microrganismo\\SimuladorForm\\SimuladorForm.csproj",
+        "packagesPath": "C:\\Users\\RocioGonzalez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\RocioGonzalez\\Desktop\\Porg y Lab 2_2022\\Programacion_Y_Laboratorio_2_2022\\Modelos_de_Parcial\\Segundo_Parcial_Microrganismo\\SimuladorForm\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\RocioGonzalez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {
+              "C:\\Users\\RocioGonzalez\\Desktop\\Porg y Lab 2_2022\\Programacion_Y_Laboratorio_2_2022\\Modelos_de_Parcial\\Segundo_Parcial_Microrganismo\\Entidades\\Entidades.csproj": {
+                "projectPath": "C:\\Users\\RocioGonzalez\\Desktop\\Porg y Lab 2_2022\\Programacion_Y_Laboratorio_2_2022\\Modelos_de_Parcial\\Segundo_Parcial_Microrganismo\\Entidades\\Entidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

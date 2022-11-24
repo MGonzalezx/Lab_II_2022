@@ -1,0 +1,51 @@
+J:\Visual UTN 2019\Examenes\20211202-Votacion\CoreLibraries\bin\Debug\net5.0\CoreLibraries.deps.json
+J:\Visual UTN 2019\Examenes\20211202-Votacion\CoreLibraries\bin\Debug\net5.0\CoreLibraries.dll
+J:\Visual UTN 2019\Examenes\20211202-Votacion\CoreLibraries\bin\Debug\net5.0\ref\CoreLibraries.dll
+J:\Visual UTN 2019\Examenes\20211202-Votacion\CoreLibraries\bin\Debug\net5.0\CoreLibraries.pdb
+J:\Visual UTN 2019\Examenes\20211202-Votacion\CoreLibraries\obj\Debug\net5.0\CoreLibraries.csproj.AssemblyReference.cache
+J:\Visual UTN 2019\Examenes\20211202-Votacion\CoreLibraries\obj\Debug\net5.0\CoreLibraries.GeneratedMSBuildEditorConfig.editorconfig
+J:\Visual UTN 2019\Examenes\20211202-Votacion\CoreLibraries\obj\Debug\net5.0\CoreLibraries.AssemblyInfoInputs.cache
+J:\Visual UTN 2019\Examenes\20211202-Votacion\CoreLibraries\obj\Debug\net5.0\CoreLibraries.AssemblyInfo.cs
+J:\Visual UTN 2019\Examenes\20211202-Votacion\CoreLibraries\obj\Debug\net5.0\CoreLibraries.csproj.CoreCompileInputs.cache
+J:\Visual UTN 2019\Examenes\20211202-Votacion\CoreLibraries\obj\Debug\net5.0\CoreLibraries.dll
+J:\Visual UTN 2019\Examenes\20211202-Votacion\CoreLibraries\obj\Debug\net5.0\ref\CoreLibraries.dll
+J:\Visual UTN 2019\Examenes\20211202-Votacion\CoreLibraries\obj\Debug\net5.0\CoreLibraries.pdb
+J:\Visual UTN 2019\Examenes\20211202-Votacion\20211202-Votacion-Full\CoreLibraries\bin\Debug\net5.0\CoreLibraries.deps.json
+J:\Visual UTN 2019\Examenes\20211202-Votacion\20211202-Votacion-Full\CoreLibraries\bin\Debug\net5.0\CoreLibraries.dll
+J:\Visual UTN 2019\Examenes\20211202-Votacion\20211202-Votacion-Full\CoreLibraries\bin\Debug\net5.0\ref\CoreLibraries.dll
+J:\Visual UTN 2019\Examenes\20211202-Votacion\20211202-Votacion-Full\CoreLibraries\bin\Debug\net5.0\CoreLibraries.pdb
+J:\Visual UTN 2019\Examenes\20211202-Votacion\20211202-Votacion-Full\CoreLibraries\bin\Debug\net5.0\Files.dll
+J:\Visual UTN 2019\Examenes\20211202-Votacion\20211202-Votacion-Full\CoreLibraries\bin\Debug\net5.0\Files.pdb
+J:\Visual UTN 2019\Examenes\20211202-Votacion\20211202-Votacion-Full\CoreLibraries\obj\Debug\net5.0\CoreLibraries.csproj.AssemblyReference.cache
+J:\Visual UTN 2019\Examenes\20211202-Votacion\20211202-Votacion-Full\CoreLibraries\obj\Debug\net5.0\CoreLibraries.GeneratedMSBuildEditorConfig.editorconfig
+J:\Visual UTN 2019\Examenes\20211202-Votacion\20211202-Votacion-Full\CoreLibraries\obj\Debug\net5.0\CoreLibraries.AssemblyInfoInputs.cache
+J:\Visual UTN 2019\Examenes\20211202-Votacion\20211202-Votacion-Full\CoreLibraries\obj\Debug\net5.0\CoreLibraries.AssemblyInfo.cs
+J:\Visual UTN 2019\Examenes\20211202-Votacion\20211202-Votacion-Full\CoreLibraries\obj\Debug\net5.0\CoreLibraries.csproj.CoreCompileInputs.cache
+J:\Visual UTN 2019\Examenes\20211202-Votacion\20211202-Votacion-Full\CoreLibraries\obj\Debug\net5.0\CoreLibraries.csproj.CopyComplete
+J:\Visual UTN 2019\Examenes\20211202-Votacion\20211202-Votacion-Full\CoreLibraries\obj\Debug\net5.0\CoreLibraries.dll
+J:\Visual UTN 2019\Examenes\20211202-Votacion\20211202-Votacion-Full\CoreLibraries\obj\Debug\net5.0\ref\CoreLibraries.dll
+J:\Visual UTN 2019\Examenes\20211202-Votacion\20211202-Votacion-Full\CoreLibraries\obj\Debug\net5.0\CoreLibraries.pdb
+C:\Users\Esteban\Downloads\Segundos Parciales\Nueva carpeta\resuelto\20220217-Votacion-Alumno\CoreLibraries\bin\Debug\net5.0\CoreLibraries.deps.json
+C:\Users\Esteban\Downloads\Segundos Parciales\Nueva carpeta\resuelto\20220217-Votacion-Alumno\CoreLibraries\bin\Debug\net5.0\CoreLibraries.dll
+C:\Users\Esteban\Downloads\Segundos Parciales\Nueva carpeta\resuelto\20220217-Votacion-Alumno\CoreLibraries\bin\Debug\net5.0\CoreLibraries.pdb
+C:\Users\Esteban\Downloads\Segundos Parciales\Nueva carpeta\resuelto\20220217-Votacion-Alumno\CoreLibraries\obj\Debug\net5.0\CoreLibraries.csproj.AssemblyReference.cache
+C:\Users\Esteban\Downloads\Segundos Parciales\Nueva carpeta\resuelto\20220217-Votacion-Alumno\CoreLibraries\obj\Debug\net5.0\CoreLibraries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esteban\Downloads\Segundos Parciales\Nueva carpeta\resuelto\20220217-Votacion-Alumno\CoreLibraries\obj\Debug\net5.0\CoreLibraries.AssemblyInfoInputs.cache
+C:\Users\Esteban\Downloads\Segundos Parciales\Nueva carpeta\resuelto\20220217-Votacion-Alumno\CoreLibraries\obj\Debug\net5.0\CoreLibraries.AssemblyInfo.cs
+C:\Users\Esteban\Downloads\Segundos Parciales\Nueva carpeta\resuelto\20220217-Votacion-Alumno\CoreLibraries\obj\Debug\net5.0\CoreLibraries.csproj.CoreCompileInputs.cache
+C:\Users\Esteban\Downloads\Segundos Parciales\Nueva carpeta\resuelto\20220217-Votacion-Alumno\CoreLibraries\obj\Debug\net5.0\CoreLibraries.dll
+C:\Users\Esteban\Downloads\Segundos Parciales\Nueva carpeta\resuelto\20220217-Votacion-Alumno\CoreLibraries\obj\Debug\net5.0\refint\CoreLibraries.dll
+C:\Users\Esteban\Downloads\Segundos Parciales\Nueva carpeta\resuelto\20220217-Votacion-Alumno\CoreLibraries\obj\Debug\net5.0\CoreLibraries.pdb
+C:\Users\Esteban\Downloads\Segundos Parciales\Nueva carpeta\resuelto\20220217-Votacion-Alumno\CoreLibraries\obj\Debug\net5.0\ref\CoreLibraries.dll
+C:\Users\RocioGonzalez\Desktop\Porg y Lab 2_2022\Programacion_Y_Laboratorio_2_2022\Modelos_de_Parcial\20220217-Votacion-Alumno\CoreLibraries\bin\Debug\net5.0\CoreLibraries.deps.json
+C:\Users\RocioGonzalez\Desktop\Porg y Lab 2_2022\Programacion_Y_Laboratorio_2_2022\Modelos_de_Parcial\20220217-Votacion-Alumno\CoreLibraries\bin\Debug\net5.0\CoreLibraries.dll
+C:\Users\RocioGonzalez\Desktop\Porg y Lab 2_2022\Programacion_Y_Laboratorio_2_2022\Modelos_de_Parcial\20220217-Votacion-Alumno\CoreLibraries\bin\Debug\net5.0\ref\CoreLibraries.dll
+C:\Users\RocioGonzalez\Desktop\Porg y Lab 2_2022\Programacion_Y_Laboratorio_2_2022\Modelos_de_Parcial\20220217-Votacion-Alumno\CoreLibraries\bin\Debug\net5.0\CoreLibraries.pdb
+C:\Users\RocioGonzalez\Desktop\Porg y Lab 2_2022\Programacion_Y_Laboratorio_2_2022\Modelos_de_Parcial\20220217-Votacion-Alumno\CoreLibraries\obj\Debug\net5.0\CoreLibraries.csproj.AssemblyReference.cache
+C:\Users\RocioGonzalez\Desktop\Porg y Lab 2_2022\Programacion_Y_Laboratorio_2_2022\Modelos_de_Parcial\20220217-Votacion-Alumno\CoreLibraries\obj\Debug\net5.0\CoreLibraries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RocioGonzalez\Desktop\Porg y Lab 2_2022\Programacion_Y_Laboratorio_2_2022\Modelos_de_Parcial\20220217-Votacion-Alumno\CoreLibraries\obj\Debug\net5.0\CoreLibraries.AssemblyInfoInputs.cache
+C:\Users\RocioGonzalez\Desktop\Porg y Lab 2_2022\Programacion_Y_Laboratorio_2_2022\Modelos_de_Parcial\20220217-Votacion-Alumno\CoreLibraries\obj\Debug\net5.0\CoreLibraries.AssemblyInfo.cs
+C:\Users\RocioGonzalez\Desktop\Porg y Lab 2_2022\Programacion_Y_Laboratorio_2_2022\Modelos_de_Parcial\20220217-Votacion-Alumno\CoreLibraries\obj\Debug\net5.0\CoreLibraries.csproj.CoreCompileInputs.cache
+C:\Users\RocioGonzalez\Desktop\Porg y Lab 2_2022\Programacion_Y_Laboratorio_2_2022\Modelos_de_Parcial\20220217-Votacion-Alumno\CoreLibraries\obj\Debug\net5.0\CoreLibraries.dll
+C:\Users\RocioGonzalez\Desktop\Porg y Lab 2_2022\Programacion_Y_Laboratorio_2_2022\Modelos_de_Parcial\20220217-Votacion-Alumno\CoreLibraries\obj\Debug\net5.0\ref\CoreLibraries.dll
+C:\Users\RocioGonzalez\Desktop\Porg y Lab 2_2022\Programacion_Y_Laboratorio_2_2022\Modelos_de_Parcial\20220217-Votacion-Alumno\CoreLibraries\obj\Debug\net5.0\CoreLibraries.pdb
