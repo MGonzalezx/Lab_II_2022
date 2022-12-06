@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lecK2TjayEIIwIA2LsBIHBZhMgs2dkWEoaLEuaPl5rLmznidY/BAPB9mZSnEG2lUC1fUZt60XCR6M4HQSnJ/kA==",
+  "dgSpecHash": "cb3pEKJq/EKN6fqWdzrtmwwvKhAnaUKvICwynUskA7MLFYq29be0zZWmrbxQQJYRFBWgKMsuN16pBu+EMC4hNA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\RocioGonzalez\\Desktop\\Porg y Lab 2_2022\\20220804-Final-ALUMNO\\20220804-FINAL-ALUMNO\\20220804-FINAL-ALUMNO.csproj",
+  "projectFilePath": "C:\\Users\\RocioGonzalez\\Desktop\\LAB-II\\Lab_II_2022\\20220804-Final-ALUMNO\\20220804-FINAL-ALUMNO\\20220804-FINAL-ALUMNO.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\RocioGonzalez\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\RocioGonzalez\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

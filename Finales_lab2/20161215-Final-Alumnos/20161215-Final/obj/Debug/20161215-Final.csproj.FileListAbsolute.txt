@@ -1,0 +1,14 @@
+D:\Federico\VB .Net\Visual C#\utn\20161215-Final\20161215-Final\bin\Debug\20161215-Final.exe.config
+D:\Federico\VB .Net\Visual C#\utn\20161215-Final\20161215-Final\bin\Debug\20161215-Final.exe
+D:\Federico\VB .Net\Visual C#\utn\20161215-Final\20161215-Final\bin\Debug\20161215-Final.pdb
+D:\Federico\VB .Net\Visual C#\utn\20161215-Final\20161215-Final\bin\Debug\Entidades.dll
+D:\Federico\VB .Net\Visual C#\utn\20161215-Final\20161215-Final\bin\Debug\Entidades.pdb
+D:\Federico\VB .Net\Visual C#\utn\20161215-Final\20161215-Final\obj\Debug\20161215-Final.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\20161215-Final\20161215-Final\obj\Debug\_20161215_Final.frmFinal.resources
+D:\Federico\VB .Net\Visual C#\utn\20161215-Final\20161215-Final\obj\Debug\_20161215_Final.Properties.Resources.resources
+D:\Federico\VB .Net\Visual C#\utn\20161215-Final\20161215-Final\obj\Debug\20161215-Final.csproj.GenerateResource.Cache
+D:\Federico\VB .Net\Visual C#\utn\20161215-Final\20161215-Final\obj\Debug\20161215-Final.exe
+D:\Federico\VB .Net\Visual C#\utn\20161215-Final\20161215-Final\obj\Debug\20161215-Final.pdb
+C:\Users\profesor.LAB04PROFESOR\Downloads\20161215-Final\20161215-Final\bin\Debug\20161215-Final.exe.config
+C:\Users\profesor.LAB04PROFESOR\Downloads\20161215-Final\20161215-Final\obj\Debug\20161215-Final.exe
+C:\Users\profesor.LAB04PROFESOR\Downloads\20161215-Final\20161215-Final\obj\Debug\20161215-Final.pdb

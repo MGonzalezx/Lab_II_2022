@@ -1,0 +1,18 @@
+C:\Users\Lucho\Desktop\FINAL-1\Entidades\Ledesma.Alejandro\bin\Debug\Entidades.dll
+C:\Users\Lucho\Desktop\FINAL-1\Entidades\Ledesma.Alejandro\bin\Debug\Entidades.pdb
+C:\Users\Lucho\Desktop\FINAL-1\Entidades\Ledesma.Alejandro\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Lucho\Desktop\FINAL-1\Entidades\Ledesma.Alejandro\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Lucho\Desktop\FINAL-1\Entidades\Ledesma.Alejandro\obj\Debug\Entidades.dll
+C:\Users\Lucho\Desktop\FINAL-1\Entidades\Ledesma.Alejandro\obj\Debug\Entidades.pdb
+C:\Users\Lucho\Desktop\ACA SACAR INFO\Entidades\bin\Debug\Entidades.dll
+C:\Users\Lucho\Desktop\ACA SACAR INFO\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Lucho\Desktop\ACA SACAR INFO\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Lucho\Desktop\ACA SACAR INFO\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Lucho\Desktop\ACA SACAR INFO\Entidades\obj\Debug\Entidades.dll
+C:\Users\Lucho\Desktop\ACA SACAR INFO\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Lucho\Desktop\Luciano.Moreno.2A.Final\Entidades\bin\Debug\Entidades.dll
+C:\Users\Lucho\Desktop\Luciano.Moreno.2A.Final\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Lucho\Desktop\Luciano.Moreno.2A.Final\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Lucho\Desktop\Luciano.Moreno.2A.Final\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Lucho\Desktop\Luciano.Moreno.2A.Final\Entidades\obj\Debug\Entidades.dll
+C:\Users\Lucho\Desktop\Luciano.Moreno.2A.Final\Entidades\obj\Debug\Entidades.pdb

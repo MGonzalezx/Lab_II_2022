@@ -1,0 +1,39 @@
+C:\Users\Lucho\Desktop\FINAL-1\final.Ledesma.alejandro\final.apellido.nombre\bin\Debug\Luciano.Moreno.2A.FINAL.exe.config
+C:\Users\Lucho\Desktop\FINAL-1\final.Ledesma.alejandro\final.apellido.nombre\bin\Debug\Luciano.Moreno.2A.FINAL.exe
+C:\Users\Lucho\Desktop\FINAL-1\final.Ledesma.alejandro\final.apellido.nombre\bin\Debug\Luciano.Moreno.2A.FINAL.pdb
+C:\Users\Lucho\Desktop\FINAL-1\final.Ledesma.alejandro\final.apellido.nombre\bin\Debug\Entidades.dll
+C:\Users\Lucho\Desktop\FINAL-1\final.Ledesma.alejandro\final.apellido.nombre\bin\Debug\Entidades.pdb
+C:\Users\Lucho\Desktop\FINAL-1\final.Ledesma.alejandro\final.apellido.nombre\obj\Debug\Luciano.Moreno.2A.FINAL.csprojAssemblyReference.cache
+C:\Users\Lucho\Desktop\FINAL-1\final.Ledesma.alejandro\final.apellido.nombre\obj\Debug\final.Ledesma.Alejandro.Form1.resources
+C:\Users\Lucho\Desktop\FINAL-1\final.Ledesma.alejandro\final.apellido.nombre\obj\Debug\final.Ledesma.Alejandro.Properties.Resources.resources
+C:\Users\Lucho\Desktop\FINAL-1\final.Ledesma.alejandro\final.apellido.nombre\obj\Debug\Luciano.Moreno.2A.FINAL.csproj.GenerateResource.cache
+C:\Users\Lucho\Desktop\FINAL-1\final.Ledesma.alejandro\final.apellido.nombre\obj\Debug\Luciano.Moreno.2A.FINAL.csproj.CoreCompileInputs.cache
+C:\Users\Lucho\Desktop\FINAL-1\final.Ledesma.alejandro\final.apellido.nombre\obj\Debug\Luciano.Moreno.2A.FINAL.csproj.CopyComplete
+C:\Users\Lucho\Desktop\FINAL-1\final.Ledesma.alejandro\final.apellido.nombre\obj\Debug\Luciano.Moreno.2A.FINAL.exe
+C:\Users\Lucho\Desktop\FINAL-1\final.Ledesma.alejandro\final.apellido.nombre\obj\Debug\Luciano.Moreno.2A.FINAL.pdb
+C:\Users\Lucho\Desktop\ACA SACAR INFO\final.apellido.nombre\bin\Debug\Luciano.Moreno.2A.FINAL.exe.config
+C:\Users\Lucho\Desktop\ACA SACAR INFO\final.apellido.nombre\bin\Debug\Luciano.Moreno.2A.FINAL.exe
+C:\Users\Lucho\Desktop\ACA SACAR INFO\final.apellido.nombre\bin\Debug\Luciano.Moreno.2A.FINAL.pdb
+C:\Users\Lucho\Desktop\ACA SACAR INFO\final.apellido.nombre\bin\Debug\Entidades.dll
+C:\Users\Lucho\Desktop\ACA SACAR INFO\final.apellido.nombre\bin\Debug\Entidades.pdb
+C:\Users\Lucho\Desktop\ACA SACAR INFO\final.apellido.nombre\obj\Debug\Luciano.Moreno.2A.FINAL.csprojAssemblyReference.cache
+C:\Users\Lucho\Desktop\ACA SACAR INFO\final.apellido.nombre\obj\Debug\final.Ledesma.Alejandro.Form1.resources
+C:\Users\Lucho\Desktop\ACA SACAR INFO\final.apellido.nombre\obj\Debug\final.Ledesma.Alejandro.Properties.Resources.resources
+C:\Users\Lucho\Desktop\ACA SACAR INFO\final.apellido.nombre\obj\Debug\Luciano.Moreno.2A.FINAL.csproj.GenerateResource.cache
+C:\Users\Lucho\Desktop\ACA SACAR INFO\final.apellido.nombre\obj\Debug\Luciano.Moreno.2A.FINAL.csproj.CoreCompileInputs.cache
+C:\Users\Lucho\Desktop\ACA SACAR INFO\final.apellido.nombre\obj\Debug\Luciano.Moreno.2A.FINAL.csproj.CopyComplete
+C:\Users\Lucho\Desktop\ACA SACAR INFO\final.apellido.nombre\obj\Debug\Luciano.Moreno.2A.FINAL.exe
+C:\Users\Lucho\Desktop\ACA SACAR INFO\final.apellido.nombre\obj\Debug\Luciano.Moreno.2A.FINAL.pdb
+C:\Users\Lucho\Desktop\Luciano.Moreno.2A.Final\final.apellido.nombre\bin\Debug\Luciano.Moreno.2A.FINAL.exe.config
+C:\Users\Lucho\Desktop\Luciano.Moreno.2A.Final\final.apellido.nombre\bin\Debug\Luciano.Moreno.2A.FINAL.exe
+C:\Users\Lucho\Desktop\Luciano.Moreno.2A.Final\final.apellido.nombre\bin\Debug\Luciano.Moreno.2A.FINAL.pdb
+C:\Users\Lucho\Desktop\Luciano.Moreno.2A.Final\final.apellido.nombre\bin\Debug\Entidades.dll
+C:\Users\Lucho\Desktop\Luciano.Moreno.2A.Final\final.apellido.nombre\bin\Debug\Entidades.pdb
+C:\Users\Lucho\Desktop\Luciano.Moreno.2A.Final\final.apellido.nombre\obj\Debug\Luciano.Moreno.2A.FINAL.csprojAssemblyReference.cache
+C:\Users\Lucho\Desktop\Luciano.Moreno.2A.Final\final.apellido.nombre\obj\Debug\Luciano.Moreno.2A.FINAL.csproj.GenerateResource.cache
+C:\Users\Lucho\Desktop\Luciano.Moreno.2A.Final\final.apellido.nombre\obj\Debug\Luciano.Moreno.2A.FINAL.csproj.CoreCompileInputs.cache
+C:\Users\Lucho\Desktop\Luciano.Moreno.2A.Final\final.apellido.nombre\obj\Debug\Luciano.Moreno.2A.FINAL.csproj.CopyComplete
+C:\Users\Lucho\Desktop\Luciano.Moreno.2A.Final\final.apellido.nombre\obj\Debug\Luciano.Moreno.2A.FINAL.exe
+C:\Users\Lucho\Desktop\Luciano.Moreno.2A.Final\final.apellido.nombre\obj\Debug\Luciano.Moreno.2A.FINAL.pdb
+C:\Users\Lucho\Desktop\Luciano.Moreno.2A.Final\final.apellido.nombre\obj\Debug\Final.Luciano.Moreno.Form1.resources
+C:\Users\Lucho\Desktop\Luciano.Moreno.2A.Final\final.apellido.nombre\obj\Debug\final.Luciano.Moreno.Properties.Resources.resources

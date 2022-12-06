@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MpCKDO4cGWaIT+GVXZNB5quLw4GRuKmRYLX1PiyPXWl7WQ7oe2wFRM+zQixvrsD2ZU5/reLKbDqTL97gpp1wtQ==",
+  "dgSpecHash": "bcmYZXASQzoPw60VaZ73baSUeWqdR/pJPXuU5cV5I7BUN2HwMfIJbjkvyF1gW6Js8K+RPfpAse9en23wxymQ5w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\RocioGonzalez\\Desktop\\Porg y Lab 2_2022\\Programacion_Y_Laboratorio_2_2022\\Modelos_de_Parcial\\Segundo_Parcial_Combate\\Tests\\Tests.csproj",
+  "projectFilePath": "C:\\Users\\RocioGonzalez\\Desktop\\LAB-II\\Lab_II_2022\\Modelos_de_Parcial\\Segundo_Parcial_Combate\\Tests\\Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\RocioGonzalez\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\RocioGonzalez\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

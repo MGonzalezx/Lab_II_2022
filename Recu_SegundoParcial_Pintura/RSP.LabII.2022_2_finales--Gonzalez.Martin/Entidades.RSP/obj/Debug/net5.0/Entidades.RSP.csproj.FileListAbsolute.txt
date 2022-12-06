@@ -1,0 +1,24 @@
+C:\Users\RocioGonzalez\Desktop\Nueva carpeta\RSP.LabII.2022_2_finales--Gonzalez.Martin\Entidades.RSP\bin\Debug\net5.0\Entidades.RSP.deps.json
+C:\Users\RocioGonzalez\Desktop\Nueva carpeta\RSP.LabII.2022_2_finales--Gonzalez.Martin\Entidades.RSP\bin\Debug\net5.0\Entidades.RSP.dll
+C:\Users\RocioGonzalez\Desktop\Nueva carpeta\RSP.LabII.2022_2_finales--Gonzalez.Martin\Entidades.RSP\bin\Debug\net5.0\ref\Entidades.RSP.dll
+C:\Users\RocioGonzalez\Desktop\Nueva carpeta\RSP.LabII.2022_2_finales--Gonzalez.Martin\Entidades.RSP\bin\Debug\net5.0\Entidades.RSP.pdb
+C:\Users\RocioGonzalez\Desktop\Nueva carpeta\RSP.LabII.2022_2_finales--Gonzalez.Martin\Entidades.RSP\obj\Debug\net5.0\Entidades.RSP.csproj.AssemblyReference.cache
+C:\Users\RocioGonzalez\Desktop\Nueva carpeta\RSP.LabII.2022_2_finales--Gonzalez.Martin\Entidades.RSP\obj\Debug\net5.0\Entidades.RSP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RocioGonzalez\Desktop\Nueva carpeta\RSP.LabII.2022_2_finales--Gonzalez.Martin\Entidades.RSP\obj\Debug\net5.0\Entidades.RSP.AssemblyInfoInputs.cache
+C:\Users\RocioGonzalez\Desktop\Nueva carpeta\RSP.LabII.2022_2_finales--Gonzalez.Martin\Entidades.RSP\obj\Debug\net5.0\Entidades.RSP.AssemblyInfo.cs
+C:\Users\RocioGonzalez\Desktop\Nueva carpeta\RSP.LabII.2022_2_finales--Gonzalez.Martin\Entidades.RSP\obj\Debug\net5.0\Entidades.RSP.csproj.CoreCompileInputs.cache
+C:\Users\RocioGonzalez\Desktop\Nueva carpeta\RSP.LabII.2022_2_finales--Gonzalez.Martin\Entidades.RSP\obj\Debug\net5.0\Entidades.RSP.dll
+C:\Users\RocioGonzalez\Desktop\Nueva carpeta\RSP.LabII.2022_2_finales--Gonzalez.Martin\Entidades.RSP\obj\Debug\net5.0\ref\Entidades.RSP.dll
+C:\Users\RocioGonzalez\Desktop\Nueva carpeta\RSP.LabII.2022_2_finales--Gonzalez.Martin\Entidades.RSP\obj\Debug\net5.0\Entidades.RSP.pdb
+C:\Users\RocioGonzalez\Desktop\LAB-II\Lab_II_2022\Recu_SegundoParcial_Pintura\RSP.LabII.2022_2_finales--Gonzalez.Martin\Entidades.RSP\bin\Debug\net5.0\Entidades.RSP.deps.json
+C:\Users\RocioGonzalez\Desktop\LAB-II\Lab_II_2022\Recu_SegundoParcial_Pintura\RSP.LabII.2022_2_finales--Gonzalez.Martin\Entidades.RSP\bin\Debug\net5.0\Entidades.RSP.dll
+C:\Users\RocioGonzalez\Desktop\LAB-II\Lab_II_2022\Recu_SegundoParcial_Pintura\RSP.LabII.2022_2_finales--Gonzalez.Martin\Entidades.RSP\bin\Debug\net5.0\ref\Entidades.RSP.dll
+C:\Users\RocioGonzalez\Desktop\LAB-II\Lab_II_2022\Recu_SegundoParcial_Pintura\RSP.LabII.2022_2_finales--Gonzalez.Martin\Entidades.RSP\bin\Debug\net5.0\Entidades.RSP.pdb
+C:\Users\RocioGonzalez\Desktop\LAB-II\Lab_II_2022\Recu_SegundoParcial_Pintura\RSP.LabII.2022_2_finales--Gonzalez.Martin\Entidades.RSP\obj\Debug\net5.0\Entidades.RSP.csproj.AssemblyReference.cache
+C:\Users\RocioGonzalez\Desktop\LAB-II\Lab_II_2022\Recu_SegundoParcial_Pintura\RSP.LabII.2022_2_finales--Gonzalez.Martin\Entidades.RSP\obj\Debug\net5.0\Entidades.RSP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RocioGonzalez\Desktop\LAB-II\Lab_II_2022\Recu_SegundoParcial_Pintura\RSP.LabII.2022_2_finales--Gonzalez.Martin\Entidades.RSP\obj\Debug\net5.0\Entidades.RSP.AssemblyInfoInputs.cache
+C:\Users\RocioGonzalez\Desktop\LAB-II\Lab_II_2022\Recu_SegundoParcial_Pintura\RSP.LabII.2022_2_finales--Gonzalez.Martin\Entidades.RSP\obj\Debug\net5.0\Entidades.RSP.AssemblyInfo.cs
+C:\Users\RocioGonzalez\Desktop\LAB-II\Lab_II_2022\Recu_SegundoParcial_Pintura\RSP.LabII.2022_2_finales--Gonzalez.Martin\Entidades.RSP\obj\Debug\net5.0\Entidades.RSP.csproj.CoreCompileInputs.cache
+C:\Users\RocioGonzalez\Desktop\LAB-II\Lab_II_2022\Recu_SegundoParcial_Pintura\RSP.LabII.2022_2_finales--Gonzalez.Martin\Entidades.RSP\obj\Debug\net5.0\Entidades.RSP.dll
+C:\Users\RocioGonzalez\Desktop\LAB-II\Lab_II_2022\Recu_SegundoParcial_Pintura\RSP.LabII.2022_2_finales--Gonzalez.Martin\Entidades.RSP\obj\Debug\net5.0\ref\Entidades.RSP.dll
+C:\Users\RocioGonzalez\Desktop\LAB-II\Lab_II_2022\Recu_SegundoParcial_Pintura\RSP.LabII.2022_2_finales--Gonzalez.Martin\Entidades.RSP\obj\Debug\net5.0\Entidades.RSP.pdb

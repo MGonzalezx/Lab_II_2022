@@ -1,0 +1,6 @@
+C:\Users\profesor.LAB04PROFESOR\Downloads\20161215-Final-Alumnos\20161215-Final\bin\Debug\20161215-Final.exe.config
+C:\Users\profesor.LAB04PROFESOR\Downloads\20161215-Final-Alumnos\20161215-Final\obj\Debug\20161215-Final.exe
+C:\Users\profesor.LAB04PROFESOR\Downloads\20161215-Final-Alumnos\20161215-Final\obj\Debug\20161215-Final.pdb
+D:\Federico\VB .Net\Visual C#\utn\20161215-Final-Alumnos\20161215-Final\bin\Debug\20161215-Final.exe.config
+D:\Federico\VB .Net\Visual C#\utn\20161215-Final-Alumnos\20161215-Final\obj\Debug\20161215-Final.exe
+D:\Federico\VB .Net\Visual C#\utn\20161215-Final-Alumnos\20161215-Final\obj\Debug\20161215-Final.pdb

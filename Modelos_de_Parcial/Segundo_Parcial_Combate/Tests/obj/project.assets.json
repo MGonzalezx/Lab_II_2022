@@ -6556,11 +6556,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\RocioGonzalez\\Desktop\\Porg y Lab 2_2022\\Programacion_Y_Laboratorio_2_2022\\Modelos_de_Parcial\\Segundo_Parcial_Combate\\Tests\\Tests.csproj",
+      "projectUniqueName": "C:\\Users\\RocioGonzalez\\Desktop\\LAB-II\\Lab_II_2022\\Modelos_de_Parcial\\Segundo_Parcial_Combate\\Tests\\Tests.csproj",
       "projectName": "Tests",
-      "projectPath": "C:\\Users\\RocioGonzalez\\Desktop\\Porg y Lab 2_2022\\Programacion_Y_Laboratorio_2_2022\\Modelos_de_Parcial\\Segundo_Parcial_Combate\\Tests\\Tests.csproj",
+      "projectPath": "C:\\Users\\RocioGonzalez\\Desktop\\LAB-II\\Lab_II_2022\\Modelos_de_Parcial\\Segundo_Parcial_Combate\\Tests\\Tests.csproj",
       "packagesPath": "C:\\Users\\RocioGonzalez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\RocioGonzalez\\Desktop\\Porg y Lab 2_2022\\Programacion_Y_Laboratorio_2_2022\\Modelos_de_Parcial\\Segundo_Parcial_Combate\\Tests\\obj\\",
+      "outputPath": "C:\\Users\\RocioGonzalez\\Desktop\\LAB-II\\Lab_II_2022\\Modelos_de_Parcial\\Segundo_Parcial_Combate\\Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\RocioGonzalez\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6577,8 +6577,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\RocioGonzalez\\Desktop\\Porg y Lab 2_2022\\Programacion_Y_Laboratorio_2_2022\\Modelos_de_Parcial\\Segundo_Parcial_Combate\\Entidades\\Entidades.csproj": {
-              "projectPath": "C:\\Users\\RocioGonzalez\\Desktop\\Porg y Lab 2_2022\\Programacion_Y_Laboratorio_2_2022\\Modelos_de_Parcial\\Segundo_Parcial_Combate\\Entidades\\Entidades.csproj"
+            "C:\\Users\\RocioGonzalez\\Desktop\\LAB-II\\Lab_II_2022\\Modelos_de_Parcial\\Segundo_Parcial_Combate\\Entidades\\Entidades.csproj": {
+              "projectPath": "C:\\Users\\RocioGonzalez\\Desktop\\LAB-II\\Lab_II_2022\\Modelos_de_Parcial\\Segundo_Parcial_Combate\\Entidades\\Entidades.csproj"
             }
           }
         }

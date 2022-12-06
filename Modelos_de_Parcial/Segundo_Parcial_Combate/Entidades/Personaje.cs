@@ -41,7 +41,7 @@ namespace Entidades
         {
 
             puntosDeDefensa = 100 * nivel;
-            puntosDeVida = 500 * nivel;
+            puntosDeVida = 100 * nivel;
             puntosDePoder = 100 * nivel;
 
             if (string.IsNullOrWhiteSpace(nombre))

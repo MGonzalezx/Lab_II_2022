@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\RocioGonzalez\\Desktop\\LAB-II\\Lab_II_2022\\Recu_SegundoParcial_Pintura\\RSP.LabII.2022_2_finales--Gonzalez.Martin\\Entidades.RSP\\Entidades.RSP.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\RocioGonzalez\\Desktop\\LAB-II\\Lab_II_2022\\Recu_SegundoParcial_Pintura\\RSP.LabII.2022_2_finales--Gonzalez.Martin\\Entidades.RSP\\Entidades.RSP.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\RocioGonzalez\\Desktop\\LAB-II\\Lab_II_2022\\Recu_SegundoParcial_Pintura\\RSP.LabII.2022_2_finales--Gonzalez.Martin\\Entidades.RSP\\Entidades.RSP.csproj",
+        "projectName": "Entidades.RSP",
+        "projectPath": "C:\\Users\\RocioGonzalez\\Desktop\\LAB-II\\Lab_II_2022\\Recu_SegundoParcial_Pintura\\RSP.LabII.2022_2_finales--Gonzalez.Martin\\Entidades.RSP\\Entidades.RSP.csproj",
+        "packagesPath": "C:\\Users\\RocioGonzalez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\RocioGonzalez\\Desktop\\LAB-II\\Lab_II_2022\\Recu_SegundoParcial_Pintura\\RSP.LabII.2022_2_finales--Gonzalez.Martin\\Entidades.RSP\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\RocioGonzalez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\RocioGonzalez\\Desktop\\Porg y Lab 2_2022\\SegundoParcial\\SP.LabII.2022_Gonzalez.Martin\\SP.LABII.WinFormsApp\\SP.LABII.WinFormsApp.csproj",
+      "projectUniqueName": "C:\\Users\\RocioGonzalez\\Desktop\\LAB-II\\Lab_II_2022\\SegundoParcial\\SP.LabII.2022_Gonzalez.Martin\\SP.LABII.WinFormsApp\\SP.LABII.WinFormsApp.csproj",
       "projectName": "SP.LABII.WinFormsApp",
-      "projectPath": "C:\\Users\\RocioGonzalez\\Desktop\\Porg y Lab 2_2022\\SegundoParcial\\SP.LabII.2022_Gonzalez.Martin\\SP.LABII.WinFormsApp\\SP.LABII.WinFormsApp.csproj",
+      "projectPath": "C:\\Users\\RocioGonzalez\\Desktop\\LAB-II\\Lab_II_2022\\SegundoParcial\\SP.LabII.2022_Gonzalez.Martin\\SP.LABII.WinFormsApp\\SP.LABII.WinFormsApp.csproj",
       "packagesPath": "C:\\Users\\RocioGonzalez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\RocioGonzalez\\Desktop\\Porg y Lab 2_2022\\SegundoParcial\\SP.LabII.2022_Gonzalez.Martin\\SP.LABII.WinFormsApp\\obj\\",
+      "outputPath": "C:\\Users\\RocioGonzalez\\Desktop\\LAB-II\\Lab_II_2022\\SegundoParcial\\SP.LabII.2022_Gonzalez.Martin\\SP.LABII.WinFormsApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\RocioGonzalez\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
-            "C:\\Users\\RocioGonzalez\\Desktop\\Porg y Lab 2_2022\\SegundoParcial\\SP.LabII.2022_Gonzalez.Martin\\Entidades\\EntidadesSP.csproj": {
-              "projectPath": "C:\\Users\\RocioGonzalez\\Desktop\\Porg y Lab 2_2022\\SegundoParcial\\SP.LabII.2022_Gonzalez.Martin\\Entidades\\EntidadesSP.csproj"
+            "C:\\Users\\RocioGonzalez\\Desktop\\LAB-II\\Lab_II_2022\\SegundoParcial\\SP.LabII.2022_Gonzalez.Martin\\Entidades\\EntidadesSP.csproj": {
+              "projectPath": "C:\\Users\\RocioGonzalez\\Desktop\\LAB-II\\Lab_II_2022\\SegundoParcial\\SP.LabII.2022_Gonzalez.Martin\\Entidades\\EntidadesSP.csproj"
             }
           }
         }
