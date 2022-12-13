@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8Txd5wKW5gPW6npumBrrBi2tmqOiHlCUqDZDO2vuCH+7NQi8IMFE7a8lXglH3fPwZPaGpCZ7UoUiGXEV+9JFIw==",
+  "dgSpecHash": "zHJeloRdVTFD5EAloxFLy/ca0EG+lVQjzGE7xKQG64lXmI5i3tX8OvfuRVSuR3Ow/lL0vPf/Ou95ny6/vSJOuQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\RocioGonzalez\\Desktop\\Porg y Lab 2_2022\\Programacion_Y_Laboratorio_2_2022\\Modelos_de_Parcial\\Segundo.Parcial.Bomberos\\Entidades\\Entidades.csproj",
+  "projectFilePath": "C:\\Users\\RocioGonzalez\\Desktop\\LAB-II\\Lab_II_2022\\Modelos_de_Parcial\\Segundo.Parcial.Bomberos\\Entidades\\Entidades.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\RocioGonzalez\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\RocioGonzalez\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
